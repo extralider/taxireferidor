@@ -1,0 +1,5 @@
+{
+  "name": "DentalRef QR",
+  "description": "Sistema de referencia automatizado para clínica dental mediante códigos QR en taxis. Captura prospectos y ofrece asistencia virtual.",
+  "requestFramePermissions": []
+}
